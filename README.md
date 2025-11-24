@@ -96,12 +96,14 @@ endmodule
 
 **RTL realization Output:** 
 ![ex1](https://github.com/user-attachments/assets/259e0af4-c4e4-4ee3-a877-419357736e6d)
-![waveform1](https://github.com/user-attachments/assets/de1733ab-08be-4ffe-bcf7-246585978433)
 
 
 
 
 **RTL**
+![waveform1](https://github.com/user-attachments/assets/de1733ab-08be-4ffe-bcf7-246585978433)
+
+
 
 **Result:**
 
