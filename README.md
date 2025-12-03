@@ -94,14 +94,16 @@ endmodule
 <img width="894" height="429" alt="Screenshot 2025-11-22 212915" src="https://github.com/user-attachments/assets/8b8c080f-46f9-463b-b96d-a9eaa4c7631c" />
 
 
-**RTL realization Output:** 
-![ex1](https://github.com/user-attachments/assets/259e0af4-c4e4-4ee3-a877-419357736e6d)
+**RTL realization Output:**
+<img width="1542" height="777" alt="EX1 RTL" src="https://github.com/user-attachments/assets/dfeeaec9-06eb-4f73-b5d5-4cb48b009584" />
+
 
 
 
 
 **RTL**
-![waveform1](https://github.com/user-attachments/assets/de1733ab-08be-4ffe-bcf7-246585978433)
+![ex1](https://github.com/user-attachments/assets/4eb0668f-89dd-4cbb-a2ed-655e329d6b3c)
+
 
 
 
