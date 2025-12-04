@@ -95,14 +95,16 @@ endmodule
 
 
 **RTL realization Output:**
-<img width="1542" height="777" alt="EX1 RTL" src="https://github.com/user-attachments/assets/dfeeaec9-06eb-4f73-b5d5-4cb48b009584" />
+<img width="1612" height="849" alt="ex1rtl" src="https://github.com/user-attachments/assets/fa0b0d76-e21e-4ab2-9ab0-403a67895bda" />
+
 
 
 
 
 
 **RTL**
-![ex1](https://github.com/user-attachments/assets/4eb0668f-89dd-4cbb-a2ed-655e329d6b3c)
+<img width="1673" height="850" alt="ex1wave" src="https://github.com/user-attachments/assets/ea59d96f-0d21-4a67-9896-3e1b0d6c837f" />
+
 
 
 
