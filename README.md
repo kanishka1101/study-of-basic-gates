@@ -103,7 +103,8 @@ endmodule
 
 
 **RTL**
-<img width="1673" height="850" alt="ex1wave" src="https://github.com/user-attachments/assets/ea59d96f-0d21-4a67-9896-3e1b0d6c837f" />
+<img width="1611" height="850" alt="ex1wave" src="https://github.com/user-attachments/assets/cd8eac41-65c7-4880-8090-2b2b2af369b3" />
+
 
 
 
