@@ -102,7 +102,8 @@ endmodule
 
 
 **RTL**
-<img width="1611" height="850" alt="ex1wave" src="https://github.com/user-attachments/assets/cd8eac41-65c7-4880-8090-2b2b2af369b3" />
+![exp1](https://github.com/user-attachments/assets/f3502ebd-14e1-4e36-85ba-3332dbb4b00e)
+
 
 
 
@@ -110,7 +111,7 @@ endmodule
 
 
 **Result:**
-     Thus the verification of truth table of logic gates in Quartus II using Verilog programming.
+     Thus the truth table and logic gates in Quartus II using Verilog programming is verified.
 
 
 
