@@ -1,6 +1,5 @@
 ### study-of-basic-gates
 Name:Kanishka G
-
 Reference number:25011903
 
 **AIM:** 
