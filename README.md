@@ -91,11 +91,13 @@ endmodule
  
  
 **Logic symbol & Truthtable**
-<img width="894" height="429" alt="Screenshot 2025-11-22 212915" src="https://github.com/user-attachments/assets/8b8c080f-46f9-463b-b96d-a9eaa4c7631c" />
+<img width="1108" height="906" alt="Screenshot 2025-12-19 233221" src="https://github.com/user-attachments/assets/7a993de8-e71b-4ce9-9ead-8cbc55bdf2fb" />
+
 
 
 **RTL realization Output:**
-<img width="1612" height="849" alt="ex1rtl" src="https://github.com/user-attachments/assets/fa0b0d76-e21e-4ab2-9ab0-403a67895bda" />
+<img width="1200" height="636" alt="Screenshot 2025-12-19 233235" src="https://github.com/user-attachments/assets/5e3a975d-1154-4bba-9dcf-8acbeb9eb544" />
+
 
 
 
@@ -103,7 +105,8 @@ endmodule
 
 
 **RTL**
-![exp1](https://github.com/user-attachments/assets/f3502ebd-14e1-4e36-85ba-3332dbb4b00e)
+<img width="1289" height="671" alt="Screenshot 2025-12-19 233244" src="https://github.com/user-attachments/assets/587a8a1a-6c88-4092-ae08-0a4cccda3722" />
+
 
 
 
