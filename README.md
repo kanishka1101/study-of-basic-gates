@@ -5,7 +5,7 @@ Reference number:25011903
 
 **AIM:** 
 
-To study and verify the truth table of logic gates in Quartus II using Verilog programming.
+To study and verify the truth table of logic gates in Quartus II using Verilog programming .
 
 **Equipments Required:**
 
